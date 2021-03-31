@@ -15,6 +15,7 @@ body {
 
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 18px;    
 }
 
 .text-vertical-center {
@@ -71,7 +72,7 @@ hr.star-team {
   text-align: center;
   max-width: 1200px;
   margin: 25px auto 30px;
-  border-color: white;
+  border-color: black;
 }
 hr.star-leader:after,
 hr.star-team:after {
@@ -202,6 +203,7 @@ hr.star-leader:after {
 
 .team {
     padding: 50px 0;
+
 }
 
 .thumbnail{
